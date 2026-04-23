@@ -1,0 +1,271 @@
+[
+  {
+    "script": "brahmi",
+    "glyph": "\ud804\udc00",
+    "iast": "a",
+    "devanagari": "अ",
+    "english_gloss": "a"
+  },
+  {
+    "script": "brahmi",
+    "glyph": "\ud804\udc01",
+    "iast": "ā",
+    "devanagari": "आ",
+    "english_gloss": "aa"
+  },
+  {
+    "script": "brahmi",
+    "glyph": "\ud804\udc02",
+    "iast": "i",
+    "devanagari": "इ",
+    "english_gloss": "i"
+  },
+  {
+    "script": "brahmi",
+    "glyph": "\ud804\udc05",
+    "iast": "u",
+    "devanagari": "उ",
+    "english_gloss": "u"
+  },
+  {
+    "script": "brahmi",
+    "glyph": "\ud804\udc13",
+    "iast": "ka",
+    "devanagari": "क",
+    "english_gloss": "ka"
+  },
+  {
+    "script": "brahmi",
+    "glyph": "\ud804\udc14",
+    "iast": "kha",
+    "devanagari": "ख",
+    "english_gloss": "kha"
+  },
+  {
+    "script": "brahmi",
+    "glyph": "\ud804\udc15",
+    "iast": "ga",
+    "devanagari": "ग",
+    "english_gloss": "ga"
+  },
+  {
+    "script": "brahmi",
+    "glyph": "\ud804\udc16",
+    "iast": "gha",
+    "devanagari": "घ",
+    "english_gloss": "gha"
+  },
+  {
+    "script": "brahmi",
+    "glyph": "\ud804\udc18",
+    "iast": "ca",
+    "devanagari": "च",
+    "english_gloss": "ca"
+  },
+  {
+    "script": "brahmi",
+    "glyph": "\ud804\udc1a",
+    "iast": "ja",
+    "devanagari": "ज",
+    "english_gloss": "ja"
+  },
+  {
+    "script": "brahmi",
+    "glyph": "\ud804\udc1d",
+    "iast": "ṭa",
+    "devanagari": "ट",
+    "english_gloss": "ta (retroflex)"
+  },
+  {
+    "script": "brahmi",
+    "glyph": "\ud804\udc22",
+    "iast": "ta",
+    "devanagari": "त",
+    "english_gloss": "ta"
+  },
+  {
+    "script": "brahmi",
+    "glyph": "\ud804\udc23",
+    "iast": "tha",
+    "devanagari": "थ",
+    "english_gloss": "tha"
+  },
+  {
+    "script": "brahmi",
+    "glyph": "\ud804\udc24",
+    "iast": "da",
+    "devanagari": "द",
+    "english_gloss": "da"
+  },
+  {
+    "script": "brahmi",
+    "glyph": "\ud804\udc26",
+    "iast": "na",
+    "devanagari": "न",
+    "english_gloss": "na"
+  },
+  {
+    "script": "brahmi",
+    "glyph": "\ud804\udc27",
+    "iast": "pa",
+    "devanagari": "प",
+    "english_gloss": "pa"
+  },
+  {
+    "script": "brahmi",
+    "glyph": "\ud804\udc29",
+    "iast": "ba",
+    "devanagari": "ब",
+    "english_gloss": "ba"
+  },
+  {
+    "script": "brahmi",
+    "glyph": "\ud804\udc2b",
+    "iast": "ma",
+    "devanagari": "म",
+    "english_gloss": "ma"
+  },
+  {
+    "script": "brahmi",
+    "glyph": "\ud804\udc2c",
+    "iast": "ya",
+    "devanagari": "य",
+    "english_gloss": "ya"
+  },
+  {
+    "script": "brahmi",
+    "glyph": "\ud804\udc2d",
+    "iast": "ra",
+    "devanagari": "र",
+    "english_gloss": "ra"
+  },
+  {
+    "script": "brahmi",
+    "glyph": "\ud804\udc2e",
+    "iast": "la",
+    "devanagari": "ल",
+    "english_gloss": "la"
+  },
+  {
+    "script": "brahmi",
+    "glyph": "\ud804\udc2f",
+    "iast": "va",
+    "devanagari": "व",
+    "english_gloss": "va"
+  },
+  {
+    "script": "brahmi",
+    "glyph": "\ud804\udc30",
+    "iast": "śa",
+    "devanagari": "श",
+    "english_gloss": "sha (palatal)"
+  },
+  {
+    "script": "brahmi",
+    "glyph": "\ud804\udc32",
+    "iast": "sa",
+    "devanagari": "स",
+    "english_gloss": "sa"
+  },
+  {
+    "script": "brahmi",
+    "glyph": "\ud804\udc33",
+    "iast": "ha",
+    "devanagari": "ह",
+    "english_gloss": "ha"
+  },
+
+  {
+    "script": "brahmi",
+    "token": "\ud804\udc27\ud804\udc2c\ud804\udc27\ud804\udc2d\ud804\udc33\ud804\udc33",
+    "iast": "piyadasi",
+    "devanagari": "पियदसि",
+    "meaning": "\"Beloved of the Gods\" — Ashoka's royal epithet, common in Brahmi edicts"
+  },
+  {
+    "script": "brahmi",
+    "token": "\ud804\udc24\ud804\udc2b\ud804\udc2b",
+    "iast": "dhamma",
+    "devanagari": "धम्म",
+    "meaning": "the Buddhist dhamma (dharma)"
+  },
+  {
+    "script": "brahmi",
+    "token": "\ud804\udc2d\ud804\udc1e\ud804\udc27",
+    "iast": "rājan",
+    "devanagari": "राजा",
+    "meaning": "king"
+  },
+
+  {
+    "script": "tamil-brahmi",
+    "token": "\ud804\udc05\ud804\udc2d\ud804\udc33\ud804\udc24",
+    "tamil": "அரஹத",
+    "iast": "arahata",
+    "meaning": "the worthy one — honorific used for Jain / Buddhist ascetics"
+  },
+  {
+    "script": "tamil-brahmi",
+    "token": "\ud804\udc13\ud804\udc24",
+    "tamil": "கட",
+    "iast": "kaṭa",
+    "meaning": "given / donated"
+  },
+
+  {
+    "script": "sanskrit",
+    "token": "श्री",
+    "devanagari": "श्री",
+    "iast": "śrī",
+    "meaning": "auspicious / venerable (honorific prefix)"
+  },
+  {
+    "script": "sanskrit",
+    "token": "स्वस्ति",
+    "devanagari": "स्वस्ति",
+    "iast": "svasti",
+    "meaning": "may it be well — common inscription opener"
+  },
+  {
+    "script": "sanskrit",
+    "token": "सिद्धम्",
+    "devanagari": "सिद्धम्",
+    "iast": "siddham",
+    "meaning": "accomplished / may success attend — traditional incipit"
+  },
+  {
+    "script": "sanskrit",
+    "token": "देव",
+    "devanagari": "देव",
+    "iast": "deva",
+    "meaning": "god / deity"
+  },
+  {
+    "script": "sanskrit",
+    "token": "मन्दिर",
+    "devanagari": "मन्दिर",
+    "iast": "mandira",
+    "meaning": "temple"
+  },
+  {
+    "script": "sanskrit",
+    "token": "दान",
+    "devanagari": "दान",
+    "iast": "dāna",
+    "meaning": "donation / gift"
+  },
+  {
+    "script": "prakrit",
+    "token": "दानम्",
+    "devanagari": "दानम्",
+    "iast": "dānam",
+    "meaning": "(this is) a donation"
+  },
+  {
+    "script": "prakrit",
+    "token": "भिक्खुस्स",
+    "devanagari": "भिक्खुस्स",
+    "iast": "bhikkhussa",
+    "meaning": "of the monk"
+  }
+]

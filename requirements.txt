@@ -1,0 +1,25 @@
+# Core CV + array
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# Web UI
+streamlit>=1.32.0
+
+# OCR engines — install at least one
+pytesseract>=0.3.10          # requires Tesseract binary on PATH + language packs (san, tam, hin)
+easyocr>=1.7.1               # heavy; pulls torch. Good fallback for Devanagari/Tamil
+
+# LLM backends — either / both. `auto` uses Gemini first and fails over to Groq.
+google-genai>=0.3.0          # Google Gemini — new, maintained SDK (preferred)
+# google-generativeai>=0.7.0 # Legacy SDK (deprecated, but still supported as fallback)
+groq>=0.11.0                 # Groq (fallback)
+
+# Optional: offline Indic translation
+# transformers>=4.43.0
+# sentencepiece>=0.2.0
+# torch>=2.2.0
+
+# Optional speedups
+# python-Levenshtein>=0.25.0
+# rapidfuzz>=3.9.0
